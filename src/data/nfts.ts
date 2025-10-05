@@ -126,7 +126,7 @@ export const nfts: NFT[] = [
     name: 'Miner\'s Axe of Proof',
     description: 'Used by TON validators to mine blocks and secure the network with proof-of-stake power. This massive axe channels the energy of blockchain consensus, growing more powerful with each validated transaction.',
     image_url: '/assets/nfts/miners-axe-of-proof.JPG',
-    price: 50,
+    price: 20,
     getgem_url:'',
     attributes: [
       {"trait_type": "Rarity", "value": "Epic"},
@@ -185,7 +185,7 @@ export const nfts: NFT[] = [
     name: 'Blockchain Shield',
     description: 'Forged from interconnected blockchain segments, this shield represents the unbreakable security of decentralized networks. Each glowing link strengthens the whole, creating an immutable defense that grows more powerful with every connection to the TON ecosystem.',
     image_url: '/assets/nfts/blockchain-shield.JPG',
-    price: 20,
+    price: 10,
     getgem_url:'',
     attributes: [
       {"trait_type": "Rarity", "value": "Rare"},
@@ -211,7 +211,7 @@ export const nfts: NFT[] = [
     name: 'Validator\'s Full Plate Armor',
     description: 'Worn by TON network validators, this full plate armor pulses with the energy of blockchain consensus. Each glowing mark represents an active validator node, creating an impenetrable defense that grows stronger with network participation.',
     image_url: '/assets/nfts/validators-full-plate-armor.JPG',
-    price: 50,
+    price: 20,
     getgem_url:'',
     attributes: [
       {"trait_type": "Rarity", "value": "Epic"},
@@ -262,7 +262,7 @@ export const nfts: NFT[] = [
     name: 'NFT Collector\'s Helm',
     description: 'An ornate fantasy helmet forged with celestial metals and embedded with blockchain-enchanted gemstones. The visor displays a real-time feed of rare digital assets across the metaverse, granting the wearer mystical vision to identify undervalued NFTs and hidden gem collections before anyone else.',
     image_url: '/assets/nfts/nft-collectors-helm.JPG',
-    price: 10,
+    price: 20,
     getgem_url:'',
     attributes: [
       {"trait_type": "Rarity", "value": "Epic"},
@@ -289,7 +289,7 @@ export const nfts: NFT[] = [
     name: 'Gas Fee Breastplate',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/gas-fee-breastplate.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       {"trait_type": "Rarity", "value": "Uncommon"},
@@ -319,7 +319,7 @@ export const nfts: NFT[] = [
     name: 'Notcoin Amulet',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -338,7 +338,7 @@ export const nfts: NFT[] = [
     name: 'Telegram Mage Orb',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -357,7 +357,7 @@ export const nfts: NFT[] = [
     name: 'Gem of Staking',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -376,7 +376,7 @@ export const nfts: NFT[] = [
     name: 'Wallet Soul Stone',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -395,7 +395,7 @@ export const nfts: NFT[] = [
     name: 'Bridge Runestone',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -414,7 +414,7 @@ export const nfts: NFT[] = [
     name: 'Health Potion of Recovery',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -433,7 +433,7 @@ export const nfts: NFT[] = [
     name: 'Mana Elixir of Scalability',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
@@ -452,7 +452,7 @@ export const nfts: NFT[] = [
     name: 'Scroll of Instant Transaction',
     description: 'A shadowy cloak that lets its wearer move undetected through decentralized exchanges. The semi-transparent fabric displays live trading data and market movements, granting its wearer enhanced evasion and market insight.',
     image_url: '/assets/nfts/smart-contract-wand.JPG',
-    price: 10,
+    price: 5,
     getgem_url:'',
     attributes: [
       
