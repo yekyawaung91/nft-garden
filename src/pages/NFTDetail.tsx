@@ -124,8 +124,10 @@ export default function NFTDetail() {
                   </p>
 </div>
 <div>
-                  <button className="w-full py-2 bg-gradient-to-r from-purple-500 to-blue-600 text-white rounded-lg font-semibold hover:shadow-lg hover:shadow-purple-500/50 transition-all">
-                    Buy Now
+                  <button 
+                  onClick={() => window.open(nft.getgem_url,"_blank")}
+                  className="w-full py-2 bg-gradient-to-r from-purple-500 to-blue-600 text-white rounded-lg font-semibold hover:shadow-lg hover:shadow-purple-500/50 transition-all">
+                    Buy on getgem.io
                   </button>
                   </div>
                   </div>
